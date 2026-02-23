@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "会いたくて",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-23T11:29:06.540497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "会いたくて",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_会いたくて_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "会いたくて",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_会いたくて_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "会いたくて 会いたくて",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/03_会いたくて_会いたくて_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "会いたくて 会いたくて",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/04_会いたくて_会いたくて_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "会いたくて 会いたくて",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/05_会いたくて_会いたくて_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "会いたくて (Piano & Strings Version)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_会いたくて_(Piano_&_Strings_Version)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "会いたくて (Piano & Strings Ver.)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_会いたくて_(Piano_&_Strings_Ver.)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "会いたくて - Piano & Strings Ver.",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_会いたくて_-_Piano_&_Strings_Ver._Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "会いたくて-Lover Soul-",
+      "artist": "LINDBERG",
+      "has_synced": true,
+      "path": "select/09_会いたくて-Lover_Soul-_LINDBERG.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "会いたくて (feat. こぴ)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/10_会いたくて_(feat._こぴ)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "会いたくて - Aitakute",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/11_会いたくて_-_Aitakute_Ado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "会いたくて 会いたくて",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/12_会いたくて_会いたくて_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "会いたくて...",
+      "artist": "倉木麻衣",
+      "has_synced": false,
+      "path": "select/13_会いたくて..._倉木麻衣.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会いたくて",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_会いたくて_Ado.txt"
+    }
+  ]
+}
